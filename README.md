@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiffany</h1>
-<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Arduino**
 
 - 💬 Ask me about **Python, vintage hardware**
 

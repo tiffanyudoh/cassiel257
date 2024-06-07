@@ -9,4 +9,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiel257&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="cassiel257" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiel257&show_icons=true&theme=cobalt&locale=en" alt="cassiel257" /></p>
